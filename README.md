@@ -1,20 +1,20 @@
-Ai smart traffic predictor
+## Ai smart traffic predictor
 Building AI course project
 
-summary
+## summary
 Ai system to predict traffic
 
-backround
+## backround
 traffic causes delay.this helps reduce time.
 
-data
+## data
 traffic data and machine learning
 
-usage
+## usage
 enter source and destination
 
-challenges
+## challenges
 data accuracy
 
-Next
+## Next
 Mobile app
